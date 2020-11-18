@@ -1,0 +1,19 @@
+{
+    "name": "bigwil/ssw-lighthouse",
+    "description": "Fix for Google lighthouse ",
+    "license": "MIT",
+    "keywords": ["google", "lighthouse", "robo", "task runner"],
+    "type": "robo-tasks",
+    "require": {
+        "php": ">=7.2.0",
+        "consolidation/robo": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BigWil\\GoogleLighthouse\\": "./src"
+        }
+    }
+}
