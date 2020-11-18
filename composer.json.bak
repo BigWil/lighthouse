@@ -1,5 +1,5 @@
 {
-    "name": "bigwil/lighthouse",
+    "name": "bigwil/ssw-lighthouse",
     "description": "Fix for Google lighthouse ",
     "license": "MIT",
     "keywords": ["google", "lighthouse", "robo", "task runner"],
