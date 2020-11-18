@@ -1,6 +1,8 @@
 <?php
 
-namespace Droath\RoboGoogleLighthouse\Task;
+// Full attribution goes to Travis Tomka Droath/RoboGoogleLighthouse
+
+namespace BigWil\GoogleLighthouse\Task;
 
 use Robo\Common\ExecOneCommand;
 use Robo\Exception\TaskException;

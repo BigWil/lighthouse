@@ -1,6 +1,6 @@
 {
     "name": "bigwil/lighthouse",
-    "description": "Fix for Google lighthouse ",
+    "description": "Fix for Google lighthouse - Full attribution goes to Travis Tomka Droath/RoboGoogleLighthouse",
     "license": "MIT",
     "keywords": ["google", "lighthouse", "robo", "task runner"],
     "type": "robo-tasks",

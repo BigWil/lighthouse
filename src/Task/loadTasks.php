@@ -1,6 +1,6 @@
 <?php
 
-namespace Droath\RoboGoogleLighthouse\Task;
+namespace BigWil\GoogleLighthouse\Task;
 
 /**
  * Load Google lighthouse Robo tasks.
